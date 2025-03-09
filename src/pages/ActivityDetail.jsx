@@ -7,7 +7,8 @@ import {
   convertMinutesToTime,
   convertTimeFormate,
 } from "../validation.jsx";
-import { Button, Spinner } from "react-bootstrap";
+import Button from "react-bootstrap/Button";
+import Spinner from "react-bootstrap/Spinner";
 import { ArrowLeft } from "react-bootstrap-icons";
 import { useHistory } from "react-router-dom";
 
