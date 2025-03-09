@@ -3,7 +3,6 @@ import { TelephoneInboundFill } from "react-bootstrap-icons";
 import { TelephoneOutboundFill } from "react-bootstrap-icons";
 import { InfoCircleFill } from "react-bootstrap-icons";
 import Card from "react-bootstrap/Card";
-import Button from "react-bootstrap/Button";
 import { useHistory } from "react-router-dom";
 
 export const CardDetails = ({ activityDetail }) => {
